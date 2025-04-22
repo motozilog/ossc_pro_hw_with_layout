@@ -4,7 +4,7 @@
 ## No actual PCB was built from these files to validate the manufacturing.
 
 
-This PCB full routing, but I don't know how to make the trace length equal within a byte group.
+This PCB full routing without DRC error, but I don't know how to make the trace length equal within a byte group. And the power doesn't optimized.
 
 I share this PCB, may someone can finish it.
 
